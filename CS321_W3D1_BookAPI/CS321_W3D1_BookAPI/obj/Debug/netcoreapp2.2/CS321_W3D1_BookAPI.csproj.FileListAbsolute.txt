@@ -1,0 +1,13 @@
+C:\Users\zzeke\source\repos\CS321_W3D1_BookAPI\CS321_W3D1_BookAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\zzeke\source\repos\CS321_W3D1_BookAPI\CS321_W3D1_BookAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\zzeke\source\repos\CS321_W3D1_BookAPI\CS321_W3D1_BookAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\zzeke\source\repos\CS321_W3D1_BookAPI\CS321_W3D1_BookAPI\bin\Debug\netcoreapp2.2\CS321_W3D1_BookAPI.deps.json
+C:\Users\zzeke\source\repos\CS321_W3D1_BookAPI\CS321_W3D1_BookAPI\bin\Debug\netcoreapp2.2\CS321_W3D1_BookAPI.runtimeconfig.json
+C:\Users\zzeke\source\repos\CS321_W3D1_BookAPI\CS321_W3D1_BookAPI\bin\Debug\netcoreapp2.2\CS321_W3D1_BookAPI.runtimeconfig.dev.json
+C:\Users\zzeke\source\repos\CS321_W3D1_BookAPI\CS321_W3D1_BookAPI\bin\Debug\netcoreapp2.2\CS321_W3D1_BookAPI.dll
+C:\Users\zzeke\source\repos\CS321_W3D1_BookAPI\CS321_W3D1_BookAPI\obj\Debug\netcoreapp2.2\CS321_W3D1_BookAPI.csprojAssemblyReference.cache
+C:\Users\zzeke\source\repos\CS321_W3D1_BookAPI\CS321_W3D1_BookAPI\obj\Debug\netcoreapp2.2\CS321_W3D1_BookAPI.RazorAssemblyInfo.cache
+C:\Users\zzeke\source\repos\CS321_W3D1_BookAPI\CS321_W3D1_BookAPI\obj\Debug\netcoreapp2.2\CS321_W3D1_BookAPI.RazorAssemblyInfo.cs
+C:\Users\zzeke\source\repos\CS321_W3D1_BookAPI\CS321_W3D1_BookAPI\obj\Debug\netcoreapp2.2\CS321_W3D1_BookAPI.AssemblyInfoInputs.cache
+C:\Users\zzeke\source\repos\CS321_W3D1_BookAPI\CS321_W3D1_BookAPI\obj\Debug\netcoreapp2.2\CS321_W3D1_BookAPI.AssemblyInfo.cs
+C:\Users\zzeke\source\repos\CS321_W3D1_BookAPI\CS321_W3D1_BookAPI\obj\Debug\netcoreapp2.2\CS321_W3D1_BookAPI.RazorTargetAssemblyInfo.cache
